@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+See also `CLAUDE.local.md` (gitignored, local to this machine) for personal working preferences,
+including: always show the diff before committing changes, and follow standard indentation
+conventions for the language in use.
+
 ## Project overview
 
 MCP Chat is a command-line chat client that talks to Claude (Anthropic API) and exposes document
