@@ -3,3 +3,16 @@ __pycache__
 .venv
 .DS_Store
 CLAUDE.local.md
+
+# Build artifacts
+*.egg-info/
+build/
+dist/
+*.pyc
+
+# Local tool/editor state
+.claude/
+.pytest_cache/
+
+# Office lock files
+~$*
